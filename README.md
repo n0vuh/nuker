@@ -7,3 +7,6 @@
 * install colorama (pip install colorama)
 * install requests (pip install requests)
 * run main.py (python main.py)
+
+## contact
+[Discord Server](https://novuh.dev/discord)
